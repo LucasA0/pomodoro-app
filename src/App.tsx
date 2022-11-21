@@ -3,8 +3,8 @@ function App() {
    return (
       <div className="container">
          <PomodoroTimer
-            pomodoroTimer={10}
-            shortRestTime={10}
+            pomodoroTimer={1800}
+            shortRestTime={300}
             longRestTime={600}
             cycles={4}
          />

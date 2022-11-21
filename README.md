@@ -5,7 +5,8 @@
 
 ### Aqui vai um preview do app
 ![image](https://user-images.githubusercontent.com/104575967/203081452-fb1aed11-5e6b-4242-bfb0-63528b54ebf5.png)
-![image](https://user-images.githubusercontent.com/104575967/203082662-6e028888-56a2-4118-83aa-c6e1f28f08f2.png)
+![image](https://user-images.githubusercontent.com/104575967/203082789-f9f8f438-24a8-4306-80ae-3f94dd4969ee.png)
+![image](https://user-images.githubusercontent.com/104575967/203082856-36d15a1c-cd47-4858-a232-2ace690d1f93.png)
 
 
 ### O site ainda não é responsivo para todos os aparelhos, estarei implementando em breve!

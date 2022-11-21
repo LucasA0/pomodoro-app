@@ -11,4 +11,4 @@
 
 ### O site ainda não é responsivo para todos os aparelhos, estarei implementando em breve!
 
-## Aqui vai o link para darmos uma olhada mais afundo :point_right: 
+## Aqui vai o link para darmos uma olhada mais afundo :point_right: https://pomodoro-app-76ab.netlify.app/

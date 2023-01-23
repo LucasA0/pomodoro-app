@@ -17,6 +17,8 @@ body {
 }
 
 .container {
+  max-width: 1920px;
+  max-height: 1080px;
   width: 50%;
   height: 60%;
 
@@ -113,4 +115,40 @@ body {
 .resting .buttons-field button:hover {
   box-shadow: 1px 1px 20px rgba(0, 255, 149, 0.479);
   transform: scale(1.05);
-} 
+}
+
+@media screen and (max-width: 1920px) {
+  .main-title{
+    font-size: 2px;
+  }
+}
+
+@media screen and (max-width: 1680px) {
+
+}
+
+@media screen and (max-width: 1366px) {
+  .main-title{
+    font-size: 50px;
+  }
+}
+
+@media screen and (max-width: 1280px) {
+
+}
+
+@media screen and (max-width: 1024px) {
+
+}
+
+@media screen and (max-width: 960px) {
+
+}
+
+@media screen and (max-width: 640px) {
+
+}
+
+@media screen and (max-width: 320px) {
+  
+}
